@@ -6,6 +6,17 @@
 
 ---
 
+## 📌 Project Summary
+This project simulates a **real-world phishing investigation** using a CyberDefenders.org challenge.  
+
+- Performed **email header analysis** (SPF/DKIM/Return-Path) to trace sender origin.  
+- Investigated **malicious URLs** with threat intelligence tools (VirusTotal, AbuseIPDB, Hybrid Analysis).  
+- Extracted and documented **IOCs** including IPs, domains, SHA-256 hashes, registry keys, and C2 servers.  
+- Identified malware families (**BitRAT**, **AsyncRAT**) linked to cryptocurrency mining and remote access.  
+- Produced a **comprehensive incident report** with findings and phishing awareness recommendations for faculty.  
+
+---
+
 ## 📖 Scenario
 As a **Cybersecurity Analyst** at an educational institution, you receive an alert about a **phishing email** targeting faculty members.  
 
